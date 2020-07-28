@@ -122,6 +122,7 @@ EmojiText.Emojis = {
 	[":confounded:"] = "😖",
 	[":fearful:"] = "😨",
 	[":sweat:"] = "😓",
+	[":laughing:"] = "😆",
 }
 
 function EmojiText:Replace(String)
