@@ -31,7 +31,7 @@
 local EmojiText = {}
 
 EmojiText.Settings = {
-	["AutoReplace"] = false,
+	["AutoReplace"] = true,
 }
 
 EmojiText.Emojis = {
