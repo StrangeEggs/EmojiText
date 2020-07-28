@@ -116,6 +116,7 @@ EmojiText.Emojis = {
 	[":clown:"] = "🤡",
 	[":ghost:"] = "👻",
 	["/lenny"] = "( ͡° ͜ʖ ͡°)",
+	[":ok_hand:"] = "👌",
 }
 
 function EmojiText:Replace(String)
