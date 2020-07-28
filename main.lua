@@ -117,6 +117,11 @@ EmojiText.Emojis = {
 	[":ghost:"] = "👻",
 	["/lenny"] = "( ͡° ͜ʖ ͡°)",
 	[":ok_hand:"] = "👌",
+	[":relaxed:"] = "☺️",
+	[":disappointed:"] = "😞",
+	[":confounded:"] = "😖",
+	[":fearful:"] = "😨",
+	[":sweat:"] = "😓",
 }
 
 function EmojiText:Replace(String)
