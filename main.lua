@@ -115,7 +115,6 @@ EmojiText.Emojis = {
 	[":imp:"] = "👿",
 	[":clown:"] = "🤡",
 	[":ghost:"] = "👻",
-	["/lenny"] = "( ͡° ͜ʖ ͡°)",
 	[":ok_hand:"] = "👌",
 	[":relaxed:"] = "☺️",
 	[":disappointed:"] = "😞",
@@ -133,6 +132,8 @@ EmojiText.Emojis = {
 	[":question:"] = "❓",
 	[":white_check_mark:"] = "✅",
 	[":smiley:"] = "😃",
+	["/tableflip"] = "(╯°□°）╯︵ ┻━┻",
+	["/unflip"] = "┬─┬ ノ( ゜-゜ノ)",
 }
 
 function EmojiText:Replace(String)
