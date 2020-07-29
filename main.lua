@@ -132,7 +132,6 @@ EmojiText.Emojis = {
 	[":bulb:"] = "💡",
 	[":question:"] = "❓",
 	[":white_check_mark:"] = "✅",
-	[":smile:"] = "😄",
 	[":smiley:"] = "😃",
 }
 
