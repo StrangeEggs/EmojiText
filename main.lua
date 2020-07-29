@@ -134,6 +134,8 @@ EmojiText.Emojis = {
 	[":smiley:"] = "😃",
 	["/tableflip"] = "(╯°□°）╯︵ ┻━┻",
 	["/unflip"] = "┬─┬ ノ( ゜-゜ノ)",
+	[":open_mouth:"] = "😮",
+	[":slight_smile:"] = "🙂",
 }
 
 function EmojiText:Replace(String)
