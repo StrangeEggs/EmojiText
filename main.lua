@@ -124,6 +124,16 @@ EmojiText.Emojis = {
 	[":sweat:"] = "😓",
 	[":laughing:"] = "😆",
 	[":innocent:"] = "😇",
+	[":frowning:"] = "😦",
+	[":cowboy:"] = "🤠",
+	[":brain:"] = "🧠",
+	[":bacon:"] = "🥓",
+	[":tada:"] = "🎉",
+	[":bulb:"] = "💡",
+	[":question:"] = "❓",
+	[":white_check_mark:"] = "✅",
+	[":smile:"] = "😄",
+	[":smiley:"] = "😃",
 }
 
 function EmojiText:Replace(String)
